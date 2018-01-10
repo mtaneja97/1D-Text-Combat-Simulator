@@ -1,0 +1,9 @@
+﻿  Source.cpp
+f:\c++practice\combatsim\combatsim\source.cpp(12): warning C4101: 'total': unreferenced local variable
+f:\c++practice\combatsim\combatsim\source.cpp(12): warning C4101: 'cat': unreferenced local variable
+f:\c++practice\combatsim\combatsim\source.cpp(12): warning C4101: 'dog': unreferenced local variable
+f:\c++practice\combatsim\combatsim\source.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\c++practice\combatsim\combatsim\source.cpp(77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\c++practice\combatsim\combatsim\source.cpp(85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  combatSim.vcxproj -> F:\c++practice\combatSim\Debug\combatSim.exe
+  combatSim.vcxproj -> F:\c++practice\combatSim\Debug\combatSim.pdb (Partial PDB)
